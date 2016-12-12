@@ -63,6 +63,8 @@ Good BUT must be done in the correct way.
 
 A bill giving the UK intelligence agencies and police **the most sweeping surveillance powers in the western world** has passed into law with barely a whimper, **meeting only token resistance** over the past 12 months from inside parliament and **barely any** from outside.
 
+The Investigatory Powers Act, passed on Thursday, legalises a whole range of tools for **snooping and hacking** by the __security services__ unmatched by any other country in western Europe or even the US.
+
 #VSLIDE
 
 Decision must be taken by **educated** people.
@@ -89,6 +91,18 @@ It is not their job.
 
 #VSLIDE 
 
+Do we care?
+
+#VSLIDE
+
+I do not **actively** care about all the laws about food quality.
+
+#VSLIDE
+
+However, I do not have any knowledge about food safety, but I do know a lot about technology. 
+
+#VSLIDE
+
 We will be prey of companies that are lobbying our parlaments.
 
 #VSLIDE
@@ -111,7 +125,7 @@ It is ethical to have the law that we, our parents and the whole population have
 
 # FIGHT
 
-Use the technologies we master circumnavigate the laws we don't like.
+Use the technologies we master circumnavigate the laws we **don't like**.
 
 #VSLIDE
 
@@ -138,6 +152,14 @@ Create the condition to have an educate discussion about important subject.
 ## Get it right the first time.
 
 Legislative processes are designed to be slow, we want to make sure that we do the right thing the first time because laws are extremelly hard to change. 
+
+#VSLIDE
+
+What that actually means?
+
+#VSLIDE
+
+Not necessary to go as far as political activism, but it is sufficient to explain what are the re-percusion of a particular law on your less tech-educated friend.
 
 #VSLIDE
 
