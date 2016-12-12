@@ -6,9 +6,11 @@
 
 # The old days
 
-## No much interest in technologies
+No much interest in technologies
 
-# Today
+Considered just a game
+
+# Nowadays
 
 ## MUCH more money
 
