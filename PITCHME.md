@@ -14,6 +14,8 @@ Considered just a game
 
 # Nowadays
 
+#VSLIDE
+
 1. MUCH more money
 
 #VSLIDE
@@ -33,9 +35,9 @@ Market cap of biggest company 3rd Quater 2016.
 
 #VSLIDE
 
-> 2.1. USA Election.
-> 2.2. WikiLeaks
-> 2.n. ...
+* USA Election.
+* WikiLeaks
+* ...
 
 #HSLIDE
 
