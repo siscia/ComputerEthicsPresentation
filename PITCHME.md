@@ -10,6 +10,8 @@ No much interest in technologies
 
 Considered just a game
 
+#HSLIDE
+
 # Nowadays
 
 ## MUCH more money
@@ -18,6 +20,10 @@ Considered just a game
 
 #HSLIDE
 
-# Government
+# Governments
 
+Goverments are getting more and more interested in regulate / controll technologies.
 
+#HSLIDE
+
+Good BUT must be done in the correct way.
