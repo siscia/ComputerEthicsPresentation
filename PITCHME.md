@@ -103,6 +103,8 @@ However, I do not have any knowledge about food safety, but I do know a lot abou
 
 #VSLIDE
 
+## If we ignore the issues
+
 We will be prey of companies that are lobbying our parlaments.
 
 #VSLIDE
@@ -129,13 +131,13 @@ Use the technologies we master circumnavigate the laws we **don't like**.
 
 #VSLIDE
 
-1. We still live in a physicall world, law enforcement apply to us as well.
+* We still live in a physicall world, law enforcement apply to us as well.
 
 > Timothy Justen French faces prison for cyberattacks on businesses, universities. October 31, 2016. ChicagoTribune
 
 #VSLIDE
 
-2. What would be the line between an "ethical hacker" and an "unethical cracker" ? And that line does have any meaning anyway?
+* What would be the line between an "ethical hacker" and an "unethical cracker" ? And that line does have any meaning anyway?
 
 > Aaron Swartz
 
@@ -146,6 +148,12 @@ Use the technologies we master circumnavigate the laws we **don't like**.
 Use the technology we master to shape the democratic process in order to educate the less tech savy and the policy maker.
 
 Create the condition to have an educate discussion about important subject.
+
+#VSLIDE
+
+> We had just 72 hours to create a digital and branding strategy for the launch, including a website, email and fundraising program and digital advertising strategy. Within 24 hours of Bernie‘s announcement, we raised over $1.5 million.
+
+A case study from Revolution Messaging, Bernie 2016
 
 #VSLIDE
 
@@ -173,4 +181,12 @@ It is hard to do!
 #VSLIDE
 
 No, it is not. Mastering engineering means mastering abstraction and communication. It is not necessary to explain EVERYTHING.
+
+#VSLIDE
+
+I hope to have show my point, on the ethical necessity of being involved in the political process as technophilies.
+
+#VSLIDE
+
+# Question?
 
