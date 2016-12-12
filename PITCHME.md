@@ -33,9 +33,9 @@ Market cap of biggest company 3rd Quater 2016.
 
 #VSLIDE
 
-2.1. USA Election.
-2.2. WikiLeaks
-2.n. ...
+> 2.1. USA Election.
+> 2.2. WikiLeaks
+> 2.n. ...
 
 #HSLIDE
 
