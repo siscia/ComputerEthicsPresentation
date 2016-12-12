@@ -10,6 +10,12 @@ No much interest in technologies.
 
 Considered just a game.
 
+#VSLIDE
+
+The Internet, 1973
+
+[!Internet 1973](https://pbs.twimg.com/media/CzWLR1MW8AExkeD.jpg)
+
 #HSLIDE
 
 # Nowadays
@@ -73,17 +79,17 @@ It is not their job.
 
 #VSLIDE 
 
-We will be prey of big companies that are lobbying our parlaments.
+We will be prey of companies that are lobbying our parlaments.
 
 #VSLIDE
 
 Ammount of money spent in lobbying the US parlament.
 
-AT&T Inc	$12,660,000
-Alphabet Inc	$11,850,000
-Comcast Corp	$10,510,000
-Exxon Mobil	$8,840,000
-Amazon.com 	$8,624,000
+* AT&T Inc	$12,660,000
+* Alphabet Inc	$11,850,000
+* Comcast Corp	$10,510,000
+* Exxon Mobil	$8,840,000
+* Amazon.com 	$8,624,000
 
 #HSLIDE
 
