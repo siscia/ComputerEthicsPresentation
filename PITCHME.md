@@ -15,7 +15,27 @@ Considered just a game
 # Nowadays
 
 1. MUCH more money
+
+#VSLIDE
+
+Market cap of biggest company 3rd Quater 2016.
+
+1. Apple 612,662.8 M$
+2. Alphabet 541,700.3 M$
+3. Microsoft 448,223.3 M$
+4. Amazon.com 401,629.1 M$
+5. Facebook 368,704.1 M$
+6. Exxon Mobil 363,175.4 M$
+
+#VSLIDE
+
 2. MUCH more political interest
+
+#VSLIDE
+
+2.1. USA Election.
+2.2. WikiLeaks
+2.n. ...
 
 #HSLIDE
 
@@ -59,7 +79,6 @@ Use the technologies we master to circunavigate the laws we don't like.
 
 #VSLIDE
 
-1. We still live in a physicall world, law enforcement apply to us as well.
 2. What would be the line between an "ethical hacker" and an "unethical cracker" ?
 
 #HSLIDE
