@@ -14,7 +14,7 @@ Considered just a game.
 
 The Internet, 1973
 
-[!Internet 1973](https://pbs.twimg.com/media/CzWLR1MW8AExkeD.jpg)
+![Internet 1973](https://pbs.twimg.com/media/CzWLR1MW8AExkeD.jpg)
 
 #HSLIDE
 
