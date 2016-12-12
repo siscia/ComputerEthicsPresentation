@@ -1,4 +1,4 @@
-# Technophile should 
+# Technophile should Partecipate the Political Process
 
 ## Simone Mosciatti
 
@@ -90,6 +90,12 @@ Ammount of money spent in lobbying the US parlament.
 * Comcast Corp	$10,510,000
 * Exxon Mobil	$8,840,000
 * Amazon.com 	$8,624,000
+
+#VSLIDE
+
+It is ethical to have the law that we, our parents and the whole population have to respect been designed without the input of the expert on the issues but with the input of companies?
+
+> I don't think so.
 
 #HSLIDE
 
