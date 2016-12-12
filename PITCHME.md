@@ -125,6 +125,12 @@ Create the condition to have an educate discussion about important subject.
 
 #VSLIDE
 
+## Get it right the first time.
+
+Legislative processes are designed to be slow, we want to make sure that we do the right thing the first time because laws are extremelly hard to change. 
+
+#VSLIDE
+
 ## BUT... !
 
 #VSLIDE
