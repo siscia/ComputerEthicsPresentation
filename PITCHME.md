@@ -1,4 +1,4 @@
-# Technophile should Partecipate the Political Process
+# Technophiles should Participate the Political Process
 
 ## Simone Mosciatti
 
@@ -26,7 +26,7 @@ The Internet, 1973
 
 #VSLIDE
 
-Market cap of biggest company 3rd Quater 2016.
+Market cap of biggest company 3rd Quarter 2016.
 
 1. Apple 612,662.8 M$
 2. Alphabet 541,700.3 M$
@@ -47,13 +47,13 @@ Market cap of biggest company 3rd Quater 2016.
 
 #VSLIDE
 
-'Extreme surveillance' becomes UK law with barely a whimper, The Guardian, 19 November 2016 [1]
+Extreme surveillance' becomes UK law with barely a whimper, The Guardian, 19 November 2016 [1]
 
 #HSLIDE
 
 # Governments
 
-Goverments are getting more and more interested in regulate / controll technologies.
+Governments are getting more and more interested in regulate / control technologies.
 
 #HSLIDE
 
@@ -63,7 +63,7 @@ Good BUT must be done in the correct way.
 
 A bill giving the UK intelligence agencies and police **the most sweeping surveillance powers in the western world** has passed into law with barely a whimper, **meeting only token resistance** over the past 12 months from inside parliament and **barely any** from outside.
 
-The Investigatory Powers Act, passed on Thursday, legalises a whole range of tools for **snooping and hacking** by the __security services__ unmatched by any other country in western Europe or even the US.
+The Investigatory Powers Act, passed on Thursday, legalizes a whole range of tools for **snooping and hacking** by the __security services__ unmatched by any other country in western Europe or even the US.
 
 #VSLIDE
 
@@ -77,7 +77,7 @@ Decision must be taken by **educated** people.
 
 1. IGNORE The Issue
 2. FIGHT
-3. PARTECIPATE
+3. PARTICIPATE
 
 #HSLIDE
 
@@ -86,7 +86,7 @@ Let the political process flow without getting interested.
 
 #VSLIDE
 
-Political autorities DO NOT have the KNOWLEDGE to write good laws.
+Political authorities DO NOT have the KNOWLEDGE to write good laws.
 It is not their job.
 
 #VSLIDE 
@@ -105,15 +105,15 @@ However, I do not have any knowledge about food safety, but I do know a lot abou
 
 ## If we ignore the issues
 
-We will be prey of companies that are lobbying our parlaments.
+We will be prey of companies that are lobbying our parliament.
 
 #VSLIDE
 
-Ammount of money spent in lobbying the US parlament.
+Amount of money spent in lobbying the US parliament.
 
 * AT&T Inc	$12,660,000
 * Alphabet Inc	$11,850,000
-* Comcast Corp	$10,510,000
+* Compact Corp	$10,510,000
 * Exxon Mobil	$8,840,000
 * Amazon.com 	$8,624,000
 
@@ -131,7 +131,7 @@ Use the technologies we master circumnavigate the laws we **don't like**.
 
 #VSLIDE
 
-* We still live in a physicall world, law enforcement apply to us as well.
+* We still live in a physically world, law enforcement apply to us as well.
 
 > Timothy Justen French faces prison for cyberattacks on businesses, universities. October 31, 2016. ChicagoTribune
 
@@ -143,15 +143,15 @@ Use the technologies we master circumnavigate the laws we **don't like**.
 
 #HSLIDE
 
-# PARTECIPATE
+# PARTICIPATE
 
-Use the technology we master to shape the democratic process in order to educate the less tech savy and the policy maker.
+Use the technology we master to shape the democratic process in order to educate the less tech savvy and the policy maker.
 
 Create the condition to have an educate discussion about important subject.
 
 #VSLIDE
 
-> We had just 72 hours to create a digital and branding strategy for the launch, including a website, email and fundraising program and digital advertising strategy. Within 24 hours of Bernie‘s announcement, we raised over $1.5 million.
+> We had just 72 hours to create a digital and branding strategy for the launch, including a website, email and fundraising program and digital advertising strategy. Within 24 hours of Bernies announcement, we raised over $1.5 million.
 
 A case study from Revolution Messaging, Bernie 2016
 
@@ -159,7 +159,7 @@ A case study from Revolution Messaging, Bernie 2016
 
 ## Get it right the first time.
 
-Legislative processes are designed to be slow, we want to make sure that we do the right thing the first time because laws are extremelly hard to change. 
+Legislative processes are designed to be slow, we want to make sure that we do the right thing the first time because laws are extremely hard to change. 
 
 #VSLIDE
 
@@ -167,7 +167,7 @@ What that actually means?
 
 #VSLIDE
 
-Not necessary to go as far as political activism, but it is sufficient to explain what are the re-percusion of a particular law on your less tech-educated friend.
+Not necessary to go as far as political activism, but it is sufficient to explain what are the re-percussion of a particular law on your less tech-educated friend.
 
 #VSLIDE
 
@@ -184,7 +184,7 @@ No, it is not. Mastering engineering means mastering abstraction and communicati
 
 #VSLIDE
 
-I hope to have show my point, on the ethical necessity of being involved in the political process as technophilies.
+I hope to have show my point, on the ethical necessity of being involved in the political process as technophiles.
 
 #VSLIDE
 
