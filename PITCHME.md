@@ -71,6 +71,20 @@ Let the political process flow without getting interested.
 Political autorities DO NOT have the KNOWLEDGE to write good laws.
 It is not their job.
 
+#VSLIDE 
+
+We will be prey of big companies that are lobbying our parlaments.
+
+#VSLIDE
+
+Ammount of money spent in lobbying the US parlament.
+
+AT&T Inc	$12,660,000
+Alphabet Inc	$11,850,000
+Comcast Corp	$10,510,000
+Exxon Mobil	$8,840,000
+Amazon.com 	$8,624,000
+
 #HSLIDE
 
 # FIGHT
