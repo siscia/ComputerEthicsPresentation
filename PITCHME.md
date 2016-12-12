@@ -6,9 +6,9 @@
 
 # The old days
 
-No much interest in technologies
+No much interest in technologies.
 
-Considered just a game
+Considered just a game.
 
 #HSLIDE
 
@@ -16,7 +16,7 @@ Considered just a game
 
 #VSLIDE
 
-1. MUCH more money
+1. MUCH more money.
 
 #VSLIDE
 
@@ -31,12 +31,12 @@ Market cap of biggest company 3rd Quater 2016.
 
 #VSLIDE
 
-2. MUCH more political interest
+2. MUCH more political interest.
 
 #VSLIDE
 
 * USA Election.
-* WikiLeaks
+* WikiLeaks.
 * ...
 
 #HSLIDE
@@ -49,19 +49,21 @@ Goverments are getting more and more interested in regulate / controll technolog
 
 Good BUT must be done in the correct way.
 
+Decision must be taken by educated people.
+
 #HSLIDE
 
 #How can we react?
 
 #HSLIDE
 
-1. DON'T FIGHT
-2. FIGHT Rebelling
-3. FIGHT By the Rules
+1. IGNORE The Issue
+2. FIGHT
+3. PARTECIPATE
 
 #HSLIDE
 
-# DON'T FIGHT
+# IGNORE The Issue
 Let the political process flow without getting interested.
 
 #VSLIDE
@@ -71,21 +73,25 @@ It is not their job.
 
 #HSLIDE
 
-# FIGHT Rebelling
+# FIGHT
 
-Use the technologies we master to circunavigate the laws we don't like.
+Use the technologies we master circumnavigate the laws we don't like.
 
 #VSLIDE
 
 1. We still live in a physicall world, law enforcement apply to us as well.
 
+> Timothy Justen French faces prison for cyberattacks on businesses, universities. October 31, 2016. ChicagoTribune
+
 #VSLIDE
 
-2. What would be the line between an "ethical hacker" and an "unethical cracker" ?
+2. What would be the line between an "ethical hacker" and an "unethical cracker" ? And that line does have any meaning anyway?
+
+> Aaron Swartz
 
 #HSLIDE
 
-# FIGHT By the Rules
+# PARTECIPATE
 
 Use the technology we master to shape the democratic process in order to educate the less tech savy and the policy maker.
 
@@ -97,14 +103,10 @@ Create the condition to have an educate discussion about important subject.
 
 #VSLIDE
 
-## BUT... !
-
 It is hard to do!
 
 
 #VSLIDE
 
-## BUT... !
+No, it is not. Mastering engineering means mastering abstraction and communication. It is not necessary to explain EVERYTHING.
 
-It is hard to do!
-> No, it is not. Mastering engineering means mastering abstraction and communication. It is not necessary to explain EVERYTHING.
