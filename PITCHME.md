@@ -45,6 +45,10 @@ Market cap of biggest company 3rd Quater 2016.
 * WikiLeaks.
 * ...
 
+#VSLIDE
+
+'Extreme surveillance' becomes UK law with barely a whimper, The Guardian, 19 November 2016 [1]
+
 #HSLIDE
 
 # Governments
@@ -55,7 +59,13 @@ Goverments are getting more and more interested in regulate / controll technolog
 
 Good BUT must be done in the correct way.
 
-Decision must be taken by educated people.
+#VSLIDE
+
+A bill giving the UK intelligence agencies and police **the most sweeping surveillance powers in the western world** has passed into law with barely a whimper, **meeting only token resistance** over the past 12 months from inside parliament and **barely any** from outside.
+
+#VSLIDE
+
+Decision must be taken by **educated** people.
 
 #HSLIDE
 
