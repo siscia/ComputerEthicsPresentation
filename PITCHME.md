@@ -47,7 +47,11 @@ Market cap of biggest company 3rd Quarter 2016.
 
 #VSLIDE
 
-Extreme surveillance' becomes UK law with barely a whimper, The Guardian, 19 November 2016 [1]
+Not a well diffuse understanding of the repercusion of such political interest.
+
+#VSLIDE
+
+Extreme surveillance' becomes UK law with **barely a whimper**, The Guardian, 19 November 2016 [1]
 
 #HSLIDE
 
@@ -86,7 +90,8 @@ Let the political process flow without getting interested.
 
 #VSLIDE
 
-Political authorities DO NOT have the KNOWLEDGE to write good laws.
+Political authorities **DO NOT** have the KNOWLEDGE to write good laws.
+
 It is not their job.
 
 #VSLIDE 
@@ -95,7 +100,7 @@ Do we care?
 
 #VSLIDE
 
-I do not **actively** care about all the laws about food quality.
+I do not **actively** care about all the laws about, just to name something, food safety.
 
 #VSLIDE
 
@@ -103,9 +108,13 @@ However, I do not have any knowledge about food safety, but I do know a lot abou
 
 #VSLIDE
 
+Yes, I believe we should at least care.
+
+#VSLIDE
+
 ## If we ignore the issues
 
-We will be prey of companies that are lobbying our parliament.
+We will be prey of companies that are lobbying our parliaments.
 
 #VSLIDE
 
@@ -151,15 +160,13 @@ Create the condition to have an educate discussion about important subject.
 
 #VSLIDE
 
-> We had just 72 hours to create a digital and branding strategy for the launch, including a website, email and fundraising program and digital advertising strategy. Within 24 hours of Bernies announcement, we raised over $1.5 million.
-
-A case study from Revolution Messaging, Bernie 2016
+# It is possible ?
 
 #VSLIDE
 
-## Get it right the first time.
+> We had just 72 hours to create a digital and branding strategy for the launch, including a website, email and fundraising program and digital advertising strategy. Within 24 hours of Bernie's announcement, we raised over $1.5 million.
 
-Legislative processes are designed to be slow, we want to make sure that we do the right thing the first time because laws are extremely hard to change. 
+A case study from Revolution Messaging, Bernie 2016
 
 #VSLIDE
 
@@ -176,7 +183,6 @@ Not necessary to go as far as political activism, but it is sufficient to explai
 #VSLIDE
 
 It is hard to do!
-
 
 #VSLIDE
 
